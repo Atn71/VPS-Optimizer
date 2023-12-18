@@ -29,7 +29,7 @@
 #### 👉 Debian Base (Ubuntu & Debian)
    
 ```
-apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/opiran-club/VPS-Optimizer/main/optimizer.sh --ipv4)
+apt install curl -y && bash <(curl -s https://raw.githubusercontent.com/Atn71/VPS-Optimizer/main/optimizer.sh --ipv4)
 ```
 
 ---------------------------------------------------------------------------------------------------------------------------------------
